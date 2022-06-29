@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabriel-pic" "src="https://31.media.tumblr.com/38f700f0060eacee90cd158302d36b75/tumblr_mr122qgK0N1rf3wd1o1_500.gif">
+  
 </div>
 
   ##
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <a href = "mailto:gabrielmenegattireis@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielmenegattireis" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    ![Snake animation]https://github.com/GabrielMReis/GabrielMReis/blob/output/github-contribution-grid-snake.svg
+    ![Snake animation]https://github.com/gabrielmreis/gabrielmreis/blob/output/github-contribution-grid-snake.svg
  
 </div>
