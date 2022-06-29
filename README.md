@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabriel-pic" height="150" "src="https://31.media.tumblr.com/38f700f0060eacee90cd158302d36b75/tumblr_mr122qgK0N1rf3wd1o1_500.gif">
+  <img align="right" alt="Gabriel-pic" "src="https://31.media.tumblr.com/38f700f0060eacee90cd158302d36b75/tumblr_mr122qgK0N1rf3wd1o1_500.gif">
 </div>
 
   ##
